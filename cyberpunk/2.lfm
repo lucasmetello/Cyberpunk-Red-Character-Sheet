@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmcyberpunk2_svg" align="client" theme="light" margins="{top=1}">
+    <style>#frmcyberpunk2_svg path {color: black; strokeColor: black; mode: stretch;} &#xD;
+#frmcyberpunk2_svg label {fontColor: black; textTrimming: none; wordWrap: false; autoSize: true;}</style>
+    <scrollBox align="client">
+        <rectangle width="1728" height="972" color="white">&#xD;
+            <image left="0" top="0" width="1728" height="972" src="images/2.png" style="stretch" optimize="true" compilerOrder="0"/>&#xD;
+            <layout left="32" top="45" width="823" height="23" compilerOrder="1">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="823" height="24" field="ALIADOS" compilerOrder="2"/>
+            </layout>&#xD;
+            <layout left="873" top="59" width="225" height="23" compilerOrder="69">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_1" compilerOrder="70"/>
+            </layout>&#xD;
+            <layout left="1103" top="59" width="594" height="23" compilerOrder="101">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_1" compilerOrder="102"/>
+            </layout>&#xD;
+            <layout left="32" top="86" width="180" height="23" compilerOrder="3">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="180" height="24" field="PONTOS_DE_EXPERIÊNCIA" compilerOrder="4"/>
+            </layout>&#xD;
+            <layout left="216" top="86" width="180" height="23" compilerOrder="5">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="180" height="24" field="PONTOS_DE_EXPERIÊNCIA_TOTAIS" compilerOrder="6"/>
+            </layout>&#xD;
+            <layout left="873" top="86" width="225" height="23" compilerOrder="71">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_2" compilerOrder="72"/>
+            </layout>&#xD;
+            <layout left="1103" top="86" width="594" height="23" compilerOrder="103">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_2" compilerOrder="104"/>
+            </layout>&#xD;
+            <layout left="401" top="93.2" width="454" height="55.8" compilerOrder="9">
+                <textEditor left="0" top="0" width="454" height="55.8" fontSize="8.6" fontColor="#000000" field="EVENTOS_DE_REPUTAÇÃO" transparent="true" compilerOrder="10"/>
+            </layout>&#xD;
+            <layout left="873" top="113" width="225" height="23" compilerOrder="73">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_3" compilerOrder="74"/>
+            </layout>&#xD;
+            <layout left="1103" top="113" width="594" height="23" compilerOrder="105">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_3" compilerOrder="106"/>
+            </layout>&#xD;
+            <layout left="32" top="126" width="364" height="23" compilerOrder="7">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="364" height="24" field="REPUTAÇÃO" compilerOrder="8"/>
+            </layout>&#xD;
+            <layout left="873" top="140" width="225" height="23" compilerOrder="75">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_4" compilerOrder="76"/>
+            </layout>&#xD;
+            <layout left="1103" top="140" width="594" height="23" compilerOrder="107">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_4" compilerOrder="108"/>
+            </layout>&#xD;
+            <layout left="873" top="167" width="225" height="23" compilerOrder="77">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_5" compilerOrder="78"/>
+            </layout>&#xD;
+            <layout left="1103" top="167" width="594" height="23" compilerOrder="109">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_5" compilerOrder="110"/>
+            </layout>&#xD;
+            <layout left="873" top="194" width="225" height="23" compilerOrder="79">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_6" compilerOrder="80"/>
+            </layout>&#xD;
+            <layout left="1103" top="194" width="594" height="23" compilerOrder="111">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_6" compilerOrder="112"/>
+            </layout>&#xD;
+            <layout left="32" top="219.2" width="409" height="33.8" compilerOrder="11">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="ORIGENS_CULTURAIS" transparent="true" compilerOrder="12"/>
+            </layout>&#xD;
+            <layout left="446" top="219.2" width="409" height="33.8" compilerOrder="13">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="PERSONALIDADE" transparent="true" compilerOrder="14"/>
+            </layout>&#xD;
+            <layout left="873" top="221" width="225" height="23" compilerOrder="81">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_7" compilerOrder="82"/>
+            </layout>&#xD;
+            <layout left="1103" top="221" width="594" height="23" compilerOrder="113">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_7" compilerOrder="114"/>
+            </layout>&#xD;
+            <layout left="873" top="248" width="225" height="23" compilerOrder="83">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_8" compilerOrder="84"/>
+            </layout>&#xD;
+            <layout left="1103" top="248" width="594" height="23" compilerOrder="115">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_8" compilerOrder="116"/>
+            </layout>&#xD;
+            <layout left="873" top="275" width="225" height="23" compilerOrder="85">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_9" compilerOrder="86"/>
+            </layout>&#xD;
+            <layout left="1103" top="275" width="594" height="23" compilerOrder="117">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_9" compilerOrder="118"/>
+            </layout>&#xD;
+            <layout left="32" top="277.2" width="409" height="33.8" compilerOrder="15">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="ESTILO_DAS_ROUPAS" transparent="true" compilerOrder="16"/>
+            </layout>&#xD;
+            <layout left="446" top="277.2" width="409" height="33.8" compilerOrder="17">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="ESTILO_DO_CABELO" transparent="true" compilerOrder="18"/>
+            </layout>&#xD;
+            <layout left="873" top="302" width="225" height="23" compilerOrder="87">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_10" compilerOrder="88"/>
+            </layout>&#xD;
+            <layout left="1103" top="302" width="594" height="23" compilerOrder="119">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_10" compilerOrder="120"/>
+            </layout>&#xD;
+            <layout left="873" top="329" width="225" height="23" compilerOrder="89">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_11" compilerOrder="90"/>
+            </layout>&#xD;
+            <layout left="1103" top="329" width="594" height="23" compilerOrder="121">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_11" compilerOrder="122"/>
+            </layout>&#xD;
+            <layout left="32" top="336.2" width="409" height="33.8" compilerOrder="19">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="O_QUE_VOCÊ_MAIS_VALORIZA_" transparent="true" compilerOrder="20"/>
+            </layout>&#xD;
+            <layout left="446" top="336.2" width="409" height="33.8" compilerOrder="21">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="QUAL_A_SUA_OPINIAO_EM_RELAÇÃO_A_MAIORIA_DAS_PESSOAS_" transparent="true" compilerOrder="22"/>
+            </layout>&#xD;
+            <layout left="873" top="356" width="225" height="23" compilerOrder="91">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_12" compilerOrder="92"/>
+            </layout>&#xD;
+            <layout left="1103" top="356" width="594" height="23" compilerOrder="123">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_12" compilerOrder="124"/>
+            </layout>&#xD;
+            <layout left="873" top="383" width="225" height="23" compilerOrder="93">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_13" compilerOrder="94"/>
+            </layout>&#xD;
+            <layout left="1103" top="383" width="594" height="23" compilerOrder="125">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_13" compilerOrder="126"/>
+            </layout>&#xD;
+            <layout left="32" top="394.2" width="409" height="33.8" compilerOrder="23">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="PESSOA_QUE_MAIS_VALORIZA" transparent="true" compilerOrder="24"/>
+            </layout>&#xD;
+            <layout left="446" top="394.2" width="409" height="33.8" compilerOrder="25">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="OBJETO_QUE_MAIS_VALORIZA" transparent="true" compilerOrder="26"/>
+            </layout>&#xD;
+            <layout left="873" top="410" width="225" height="23" compilerOrder="95">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_14" compilerOrder="96"/>
+            </layout>&#xD;
+            <layout left="1103" top="410" width="594" height="23" compilerOrder="127">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_14" compilerOrder="128"/>
+            </layout>&#xD;
+            <layout left="873" top="437" width="225" height="23" compilerOrder="97">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_15" compilerOrder="98"/>
+            </layout>&#xD;
+            <layout left="1103" top="437" width="594" height="23" compilerOrder="129">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_15" compilerOrder="130"/>
+            </layout>&#xD;
+            <layout left="32" top="453.2" width="409" height="33.8" compilerOrder="27">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="ANTECENDENTE_FAMILIAR" transparent="true" compilerOrder="28"/>
+            </layout>&#xD;
+            <layout left="446" top="453.2" width="409" height="33.8" compilerOrder="29">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="AMBIENTE_DA_SUA_INFÂNCIA" transparent="true" compilerOrder="30"/>
+            </layout>&#xD;
+            <layout left="873" top="464" width="225" height="23" compilerOrder="99">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_16" compilerOrder="100"/>
+            </layout>&#xD;
+            <layout left="1103" top="464" width="594" height="23" compilerOrder="131">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_16" compilerOrder="132"/>
+            </layout>&#xD;
+            <layout left="873" top="491" width="225" height="23" compilerOrder="149">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_17" compilerOrder="150"/>
+            </layout>&#xD;
+            <layout left="1103" top="491" width="594" height="23" compilerOrder="151">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_19" compilerOrder="152"/>
+            </layout>&#xD;
+            <layout left="32" top="511.2" width="409" height="33.8" compilerOrder="31">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="TRAGÉDIA_FAMILIAR" transparent="true" compilerOrder="32"/>
+            </layout>&#xD;
+            <layout left="446" top="511.2" width="409" height="33.8" compilerOrder="33">
+                <textEditor left="0" top="0" width="409" height="33.8" fontSize="8.6" fontColor="#000000" field="OBJETIVO_DE_VIDA" transparent="true" compilerOrder="34"/>
+            </layout>&#xD;
+            <layout left="873" top="518" width="225" height="23" compilerOrder="153">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_18" compilerOrder="154"/>
+            </layout>&#xD;
+            <layout left="1103" top="518" width="594" height="23" compilerOrder="155">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_20" compilerOrder="156"/>
+            </layout>&#xD;
+            <layout left="873" top="545" width="225" height="23" compilerOrder="157">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="225" height="24" field="EQUIPAMENTO_19" compilerOrder="158"/>
+            </layout>&#xD;
+            <layout left="1103" top="545" width="594" height="23" compilerOrder="159">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_21" compilerOrder="160"/>
+            </layout>&#xD;
+            <layout left="1103" top="572" width="594" height="23" compilerOrder="133">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_17" compilerOrder="134"/>
+            </layout>&#xD;
+            <layout left="72" top="579.2" width="369" height="46.8" compilerOrder="35">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMIGOS_1" transparent="true" compilerOrder="36"/>
+            </layout>&#xD;
+            <layout left="486" top="579.2" width="369" height="46.8" compilerOrder="41">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMORES_TRÁGICOS_1" transparent="true" compilerOrder="42"/>
+            </layout>&#xD;
+            <layout left="1103" top="599" width="594" height="23" compilerOrder="135">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="594" height="24" field="NOTAS_EQUIPAMENTOS_18" compilerOrder="136"/>
+            </layout>&#xD;
+            <layout left="72" top="637.2" width="369" height="46.8" compilerOrder="37">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMIGOS_2" transparent="true" compilerOrder="38"/>
+            </layout>&#xD;
+            <layout left="486" top="637.2" width="369" height="46.8" compilerOrder="43">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMORES_TRÁGICOS_2" transparent="true" compilerOrder="44"/>
+            </layout>&#xD;
+            <layout left="873" top="660.2" width="823" height="55.8" compilerOrder="137">
+                <textEditor left="0" top="0" width="823" height="55.8" fontSize="8.6" fontColor="#000000" field="MODA_ESTILO" transparent="true" compilerOrder="138"/>
+            </layout>&#xD;
+            <layout left="72" top="696.2" width="369" height="46.8" compilerOrder="39">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMIGOS_3" transparent="true" compilerOrder="40"/>
+            </layout>&#xD;
+            <layout left="486" top="696.2" width="369" height="46.8" compilerOrder="147">
+                <textEditor left="0" top="0" width="369" height="46.8" fontSize="8.6" fontColor="#000000" field="AMORES_TRÁGICOS_3" transparent="true" compilerOrder="148"/>
+            </layout>&#xD;
+            <layout left="873" top="747" width="364" height="23" compilerOrder="139">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="364" height="24" field="HABILITAÇÃO" compilerOrder="140"/>
+            </layout>&#xD;
+            <layout left="1242" top="747" width="175" height="23" compilerOrder="141">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="175" height="24" field="ALUGUEL" compilerOrder="142"/>
+            </layout>&#xD;
+            <layout left="1422" top="747" width="274" height="23" compilerOrder="143">
+                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="274" height="24" field="ESTILO_DE_VIDA" compilerOrder="144"/>
+            </layout>&#xD;
+            <layout left="117" top="777.2" width="157" height="46.8" compilerOrder="45">
+                <textEditor left="0" top="0" width="157" height="46.8" fontSize="8.6" fontColor="#000000" field="QUEM_1" transparent="true" compilerOrder="46"/>
+            </layout>&#xD;
+            <layout left="279" top="777.2" width="162" height="46.8" compilerOrder="51">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_CAUSOU_ISSO__1" transparent="true" compilerOrder="52"/>
+            </layout>&#xD;
+            <layout left="446" top="777.2" width="243" height="46.8" compilerOrder="57">
+                <textEditor left="0" top="0" width="243" height="46.8" fontSize="8.6" fontColor="#000000" field="COMO_ELE_A__PODE_TE_CONFRONTAR__1" transparent="true" compilerOrder="58"/>
+            </layout>&#xD;
+            <layout left="693" top="777.2" width="162" height="46.8" compilerOrder="63">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_VAI_ACONTECER__1" transparent="true" compilerOrder="64"/>
+            </layout>&#xD;
+            <layout left="873" top="808.2" width="823" height="132.8" compilerOrder="145">
+                <textEditor left="0" top="0" width="823" height="132.8" fontSize="8.6" fontColor="#000000" field="FLUXO_DE_VIDA" transparent="true" compilerOrder="146"/>
+            </layout>&#xD;
+            <layout left="117" top="835.2" width="157" height="46.8" compilerOrder="47">
+                <textEditor left="0" top="0" width="157" height="46.8" fontSize="8.6" fontColor="#000000" field="QUEM_2" transparent="true" compilerOrder="48"/>
+            </layout>&#xD;
+            <layout left="279" top="835.2" width="162" height="46.8" compilerOrder="53">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_CAUSOU_ISSO__2" transparent="true" compilerOrder="54"/>
+            </layout>&#xD;
+            <layout left="446" top="835.2" width="243" height="46.8" compilerOrder="59">
+                <textEditor left="0" top="0" width="243" height="46.8" fontSize="8.6" fontColor="#000000" field="COMO_ELE_A__PODE_TE_CONFRONTAR__2" transparent="true" compilerOrder="60"/>
+            </layout>&#xD;
+            <layout left="693" top="835.2" width="162" height="46.8" compilerOrder="65">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_VAI_ACONTECER__2" transparent="true" compilerOrder="66"/>
+            </layout>&#xD;
+            <layout left="117" top="894.2" width="157" height="46.8" compilerOrder="49">
+                <textEditor left="0" top="0" width="157" height="46.8" fontSize="8.6" fontColor="#000000" field="QUEM_3" transparent="true" compilerOrder="50"/>
+            </layout>&#xD;
+            <layout left="279" top="894.2" width="162" height="46.8" compilerOrder="55">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_CAUSOU_ISSO__3" transparent="true" compilerOrder="56"/>
+            </layout>&#xD;
+            <layout left="446" top="894.2" width="243" height="46.8" compilerOrder="61">
+                <textEditor left="0" top="0" width="243" height="46.8" fontSize="8.6" fontColor="#000000" field="COMO_ELE_A__PODE_TE_CONFRONTAR__3" transparent="true" compilerOrder="62"/>
+            </layout>&#xD;
+            <layout left="693" top="894.2" width="162" height="46.8" compilerOrder="67">
+                <textEditor left="0" top="0" width="162" height="46.8" fontSize="8.6" fontColor="#000000" field="O_QUE_VAI_ACONTECER__3" transparent="true" compilerOrder="68"/>
+            </layout>&#xD;
+        </rectangle>
+    </scrollBox>
+</form>
