@@ -9,877 +9,877 @@
                 <button left="0" top="0" width="329" height="240" compilerOrder="270"/>
             </layout>&#xD;
             <layout left="378" top="50" width="90" height="50" compilerOrder="27">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="INT__25" compilerOrder="28"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="INT__25" compilerOrder="28"/>
             </layout>&#xD;
             <layout left="721" top="56" width="49" height="20" compilerOrder="119">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_1" compilerOrder="120"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_1" compilerOrder="120"/>
             </layout>&#xD;
             <layout left="775" top="56" width="49" height="20" compilerOrder="121">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__0" compilerOrder="122"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__0" compilerOrder="122"/>
             </layout>&#xD;
             <layout left="829" top="56" width="49" height="20" compilerOrder="123">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_1" compilerOrder="124"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_1" compilerOrder="124"/>
             </layout>&#xD;
             <layout left="1540" top="56" width="49" height="20" compilerOrder="397">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_47" compilerOrder="398"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_47" compilerOrder="398"/>
             </layout>&#xD;
             <layout left="1594" top="56" width="49" height="20" compilerOrder="399">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__0" compilerOrder="400"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__0" compilerOrder="400"/>
             </layout>&#xD;
             <layout left="1648" top="56" width="49" height="20" compilerOrder="401">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_47" compilerOrder="402"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_47" compilerOrder="402"/>
             </layout>&#xD;
             <layout left="721" top="81" width="49" height="20" compilerOrder="125">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_2" compilerOrder="126"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_2" compilerOrder="126"/>
             </layout>&#xD;
             <layout left="775" top="81" width="49" height="20" compilerOrder="127">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__11" compilerOrder="128"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__11" compilerOrder="128"/>
             </layout>&#xD;
             <layout left="829" top="81" width="49" height="20" compilerOrder="129">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_2" compilerOrder="130"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_2" compilerOrder="130"/>
             </layout>&#xD;
             <layout left="1130" top="81" width="49" height="20" compilerOrder="271">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_26" compilerOrder="272"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_26" compilerOrder="272"/>
             </layout>&#xD;
             <layout left="1184" top="81" width="49" height="20" compilerOrder="273">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__0" compilerOrder="274"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__0" compilerOrder="274"/>
             </layout>&#xD;
             <layout left="1238" top="81" width="49" height="20" compilerOrder="275">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_26" compilerOrder="276"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_26" compilerOrder="276"/>
             </layout>&#xD;
             <layout left="1540" top="81" width="49" height="20" compilerOrder="403">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_48" compilerOrder="404"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_48" compilerOrder="404"/>
             </layout>&#xD;
             <layout left="1594" top="81" width="49" height="20" compilerOrder="405">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__1" compilerOrder="406"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__1" compilerOrder="406"/>
             </layout>&#xD;
             <layout left="1648" top="81" width="49" height="20" compilerOrder="407">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_48" compilerOrder="408"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_48" compilerOrder="408"/>
             </layout>&#xD;
             <layout left="721" top="105" width="49" height="20" compilerOrder="131">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_3" compilerOrder="132"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_3" compilerOrder="132"/>
             </layout>&#xD;
             <layout left="775" top="105" width="49" height="20" compilerOrder="133">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__12" compilerOrder="134"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__12" compilerOrder="134"/>
             </layout>&#xD;
             <layout left="829" top="105" width="49" height="20" compilerOrder="135">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_3" compilerOrder="136"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_3" compilerOrder="136"/>
             </layout>&#xD;
             <layout left="927" top="105" width="198" height="20" compilerOrder="553">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="IDIOMA_1" compilerOrder="554"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="IDIOMA_1" compilerOrder="554"/>
             </layout>&#xD;
             <layout left="1130" top="105" width="49" height="20" compilerOrder="277">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_27" compilerOrder="278"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_27" compilerOrder="278"/>
             </layout>&#xD;
             <layout left="1184" top="105" width="49" height="20" compilerOrder="279">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__1" compilerOrder="280"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__1" compilerOrder="280"/>
             </layout>&#xD;
             <layout left="1238" top="105" width="49" height="20" compilerOrder="281">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_27" compilerOrder="282"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_27" compilerOrder="282"/>
             </layout>&#xD;
             <layout left="378" top="122" width="90" height="50" compilerOrder="29">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="REF__9" compilerOrder="30"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="REF__9" compilerOrder="30"/>
             </layout>&#xD;
             <layout left="721" top="130" width="49" height="20" compilerOrder="137">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_4" compilerOrder="138"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_4" compilerOrder="138"/>
             </layout>&#xD;
             <layout left="775" top="130" width="49" height="20" compilerOrder="139">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__13" compilerOrder="140"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__13" compilerOrder="140"/>
             </layout>&#xD;
             <layout left="829" top="130" width="49" height="20" compilerOrder="141">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_4" compilerOrder="142"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_4" compilerOrder="142"/>
             </layout>&#xD;
             <layout left="927" top="130" width="198" height="20" compilerOrder="555">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="IDIOMA_2" compilerOrder="556"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="IDIOMA_2" compilerOrder="556"/>
             </layout>&#xD;
             <layout left="1130" top="130" width="49" height="20" compilerOrder="283">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_28" compilerOrder="284"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_28" compilerOrder="284"/>
             </layout>&#xD;
             <layout left="1184" top="130" width="49" height="20" compilerOrder="285">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__2" compilerOrder="286"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__2" compilerOrder="286"/>
             </layout>&#xD;
             <layout left="1238" top="130" width="49" height="20" compilerOrder="287">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_28" compilerOrder="288"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_28" compilerOrder="288"/>
             </layout>&#xD;
             <layout left="1540" top="130" width="49" height="20" compilerOrder="409">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_49" compilerOrder="410"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_49" compilerOrder="410"/>
             </layout>&#xD;
             <layout left="1594" top="130" width="49" height="20" compilerOrder="411">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__0" compilerOrder="412"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__0" compilerOrder="412"/>
             </layout>&#xD;
             <layout left="1648" top="130" width="49" height="20" compilerOrder="413">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_49" compilerOrder="414"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_49" compilerOrder="414"/>
             </layout>&#xD;
             <layout left="721" top="154" width="49" height="20" compilerOrder="143">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_5" compilerOrder="144"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_5" compilerOrder="144"/>
             </layout>&#xD;
             <layout left="775" top="154" width="49" height="20" compilerOrder="145">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__14" compilerOrder="146"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__14" compilerOrder="146"/>
             </layout>&#xD;
             <layout left="829" top="154" width="49" height="20" compilerOrder="147">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_5" compilerOrder="148"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_5" compilerOrder="148"/>
             </layout>&#xD;
             <layout left="1130" top="154" width="49" height="20" compilerOrder="289">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_29" compilerOrder="290"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_29" compilerOrder="290"/>
             </layout>&#xD;
             <layout left="1184" top="154" width="49" height="20" compilerOrder="291">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__3" compilerOrder="292"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__3" compilerOrder="292"/>
             </layout>&#xD;
             <layout left="1238" top="154" width="49" height="20" compilerOrder="293">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_29" compilerOrder="294"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_29" compilerOrder="294"/>
             </layout>&#xD;
             <layout left="1540" top="154" width="49" height="20" compilerOrder="415">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_50" compilerOrder="416"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_50" compilerOrder="416"/>
             </layout>&#xD;
             <layout left="1594" top="154" width="49" height="20" compilerOrder="417">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="EMP__0" compilerOrder="418"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="EMP__0" compilerOrder="418"/>
             </layout>&#xD;
             <layout left="1648" top="154" width="49" height="20" compilerOrder="419">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_50" compilerOrder="420"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_50" compilerOrder="420"/>
             </layout>&#xD;
             <layout left="1540" top="179" width="49" height="20" compilerOrder="421">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_51" compilerOrder="422"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_51" compilerOrder="422"/>
             </layout>&#xD;
             <layout left="1594" top="179" width="49" height="20" compilerOrder="423">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="EMP__1" compilerOrder="424"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="EMP__1" compilerOrder="424"/>
             </layout>&#xD;
             <layout left="1648" top="179" width="49" height="20" compilerOrder="425">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_51" compilerOrder="426"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_51" compilerOrder="426"/>
             </layout>&#xD;
             <layout left="378" top="194" width="90" height="50" compilerOrder="31">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="DES__8" compilerOrder="32"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="DES__8" compilerOrder="32"/>
             </layout>&#xD;
             <layout left="721" top="203" width="49" height="20" compilerOrder="149">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_6" compilerOrder="150"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_6" compilerOrder="150"/>
             </layout>&#xD;
             <layout left="775" top="203" width="49" height="20" compilerOrder="151">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__4" compilerOrder="152"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__4" compilerOrder="152"/>
             </layout>&#xD;
             <layout left="829" top="203" width="49" height="20" compilerOrder="153">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_6" compilerOrder="154"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_6" compilerOrder="154"/>
             </layout>&#xD;
             <layout left="1130" top="203" width="49" height="20" compilerOrder="295">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_30" compilerOrder="296"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_30" compilerOrder="296"/>
             </layout>&#xD;
             <layout left="1184" top="203" width="49" height="20" compilerOrder="297">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__4" compilerOrder="298"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__4" compilerOrder="298"/>
             </layout>&#xD;
             <layout left="1238" top="203" width="49" height="20" compilerOrder="299">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_30" compilerOrder="300"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_30" compilerOrder="300"/>
             </layout>&#xD;
             <layout left="1540" top="203" width="49" height="20" compilerOrder="427">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_52" compilerOrder="428"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_52" compilerOrder="428"/>
             </layout>&#xD;
             <layout left="1594" top="203" width="49" height="20" compilerOrder="429">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__1" compilerOrder="430"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__1" compilerOrder="430"/>
             </layout>&#xD;
             <layout left="1648" top="203" width="49" height="20" compilerOrder="431">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_52" compilerOrder="432"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_52" compilerOrder="432"/>
             </layout>&#xD;
             <layout left="721" top="228" width="49" height="20" compilerOrder="155">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_7" compilerOrder="156"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_7" compilerOrder="156"/>
             </layout>&#xD;
             <layout left="775" top="228" width="49" height="20" compilerOrder="157">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__5" compilerOrder="158"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__5" compilerOrder="158"/>
             </layout>&#xD;
             <layout left="829" top="228" width="49" height="20" compilerOrder="159">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_7" compilerOrder="160"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_7" compilerOrder="160"/>
             </layout>&#xD;
             <layout left="927" top="228" width="198" height="20" compilerOrder="557">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="ESPECIALISTA_LOCAL_1" compilerOrder="558"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="ESPECIALISTA_LOCAL_1" compilerOrder="558"/>
             </layout>&#xD;
             <layout left="1130" top="228" width="49" height="20" compilerOrder="301">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_31" compilerOrder="302"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_31" compilerOrder="302"/>
             </layout>&#xD;
             <layout left="1184" top="228" width="49" height="20" compilerOrder="303">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__5" compilerOrder="304"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__5" compilerOrder="304"/>
             </layout>&#xD;
             <layout left="1238" top="228" width="49" height="20" compilerOrder="305">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_31" compilerOrder="306"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_31" compilerOrder="306"/>
             </layout>&#xD;
             <layout left="1540" top="228" width="49" height="20" compilerOrder="433">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_53" compilerOrder="434"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_53" compilerOrder="434"/>
             </layout>&#xD;
             <layout left="1594" top="228" width="49" height="20" compilerOrder="435">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__2" compilerOrder="436"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__2" compilerOrder="436"/>
             </layout>&#xD;
             <layout left="1648" top="228" width="49" height="20" compilerOrder="437">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_53" compilerOrder="438"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_53" compilerOrder="438"/>
             </layout>&#xD;
             <layout left="721" top="252" width="49" height="20" compilerOrder="161">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_8" compilerOrder="162"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_8" compilerOrder="162"/>
             </layout>&#xD;
             <layout left="775" top="252" width="49" height="20" compilerOrder="163">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__6" compilerOrder="164"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__6" compilerOrder="164"/>
             </layout>&#xD;
             <layout left="829" top="252" width="49" height="20" compilerOrder="165">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_8" compilerOrder="166"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_8" compilerOrder="166"/>
             </layout>&#xD;
             <layout left="927" top="252" width="198" height="20" compilerOrder="559">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="ESPECIALISTA_LOCAL_2" compilerOrder="560"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="ESPECIALISTA_LOCAL_2" compilerOrder="560"/>
             </layout>&#xD;
             <layout left="1130" top="252" width="49" height="20" compilerOrder="307">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_32" compilerOrder="308"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_32" compilerOrder="308"/>
             </layout>&#xD;
             <layout left="1184" top="252" width="49" height="20" compilerOrder="309">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__6" compilerOrder="310"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__6" compilerOrder="310"/>
             </layout>&#xD;
             <layout left="1238" top="252" width="49" height="20" compilerOrder="311">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_32" compilerOrder="312"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_32" compilerOrder="312"/>
             </layout>&#xD;
             <layout left="1540" top="252" width="49" height="20" compilerOrder="439">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_54" compilerOrder="440"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_54" compilerOrder="440"/>
             </layout>&#xD;
             <layout left="1594" top="252" width="49" height="20" compilerOrder="441">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__3" compilerOrder="442"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__3" compilerOrder="442"/>
             </layout>&#xD;
             <layout left="1648" top="252" width="49" height="20" compilerOrder="443">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_54" compilerOrder="444"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_54" compilerOrder="444"/>
             </layout>&#xD;
             <layout left="378" top="266" width="90" height="50" compilerOrder="33">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="TEC__17" compilerOrder="34"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="TEC__17" compilerOrder="34"/>
             </layout>&#xD;
             <layout left="721" top="277" width="49" height="20" compilerOrder="167">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_9" compilerOrder="168"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_9" compilerOrder="168"/>
             </layout>&#xD;
             <layout left="775" top="277" width="49" height="20" compilerOrder="169">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__1" compilerOrder="170"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__1" compilerOrder="170"/>
             </layout>&#xD;
             <layout left="829" top="277" width="49" height="20" compilerOrder="171">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_9" compilerOrder="172"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_9" compilerOrder="172"/>
             </layout>&#xD;
             <layout left="1540" top="277" width="49" height="20" compilerOrder="445">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_55" compilerOrder="446"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_55" compilerOrder="446"/>
             </layout>&#xD;
             <layout left="1594" top="277" width="49" height="20" compilerOrder="447">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__4" compilerOrder="448"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__4" compilerOrder="448"/>
             </layout>&#xD;
             <layout left="1648" top="277" width="49" height="20" compilerOrder="449">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_55" compilerOrder="450"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_55" compilerOrder="450"/>
             </layout>&#xD;
             <layout left="32" top="284" width="328" height="27" compilerOrder="1">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="328" height="28" field="NOME" compilerOrder="2"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="328" height="28" field="NOME" compilerOrder="2"/>
             </layout>&#xD;
             <layout left="721" top="301" width="49" height="20" compilerOrder="173">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_10" compilerOrder="174"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_10" compilerOrder="174"/>
             </layout>&#xD;
             <layout left="775" top="301" width="49" height="20" compilerOrder="175">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__2" compilerOrder="176"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="FVO__2" compilerOrder="176"/>
             </layout>&#xD;
             <layout left="829" top="301" width="49" height="20" compilerOrder="177">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_10" compilerOrder="178"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_10" compilerOrder="178"/>
             </layout>&#xD;
             <layout left="927" top="301" width="198" height="20" compilerOrder="561">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="CIÊNCIA_1" compilerOrder="562"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="CIÊNCIA_1" compilerOrder="562"/>
             </layout>&#xD;
             <layout left="1130" top="301" width="49" height="20" compilerOrder="313">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_33" compilerOrder="314"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_33" compilerOrder="314"/>
             </layout>&#xD;
             <layout left="1184" top="301" width="49" height="20" compilerOrder="315">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__7" compilerOrder="316"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__7" compilerOrder="316"/>
             </layout>&#xD;
             <layout left="1238" top="301" width="49" height="20" compilerOrder="317">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_33" compilerOrder="318"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_33" compilerOrder="318"/>
             </layout>&#xD;
             <layout left="1540" top="301" width="49" height="20" compilerOrder="451">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_56" compilerOrder="452"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_56" compilerOrder="452"/>
             </layout>&#xD;
             <layout left="1594" top="301" width="49" height="20" compilerOrder="453">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__5" compilerOrder="454"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__5" compilerOrder="454"/>
             </layout>&#xD;
             <layout left="1648" top="301" width="49" height="20" compilerOrder="455">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_56" compilerOrder="456"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_56" compilerOrder="456"/>
             </layout>&#xD;
             <layout left="721" top="326" width="49" height="20" compilerOrder="179">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_11" compilerOrder="180"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_11" compilerOrder="180"/>
             </layout>&#xD;
             <layout left="775" top="326" width="49" height="20" compilerOrder="181">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__7" compilerOrder="182"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__7" compilerOrder="182"/>
             </layout>&#xD;
             <layout left="829" top="326" width="49" height="20" compilerOrder="183">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_11" compilerOrder="184"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_11" compilerOrder="184"/>
             </layout>&#xD;
             <layout left="927" top="326" width="198" height="20" compilerOrder="563">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="CIÊNCIA_2" compilerOrder="564"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="CIÊNCIA_2" compilerOrder="564"/>
             </layout>&#xD;
             <layout left="1130" top="326" width="49" height="20" compilerOrder="319">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_34" compilerOrder="320"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_34" compilerOrder="320"/>
             </layout>&#xD;
             <layout left="1184" top="326" width="49" height="20" compilerOrder="321">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__8" compilerOrder="322"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__8" compilerOrder="322"/>
             </layout>&#xD;
             <layout left="1238" top="326" width="49" height="20" compilerOrder="323">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_34" compilerOrder="324"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_34" compilerOrder="324"/>
             </layout>&#xD;
             <layout left="1540" top="326" width="49" height="20" compilerOrder="457">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_57" compilerOrder="458"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_57" compilerOrder="458"/>
             </layout>&#xD;
             <layout left="1594" top="326" width="49" height="20" compilerOrder="459">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__6" compilerOrder="460"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__6" compilerOrder="460"/>
             </layout>&#xD;
             <layout left="1648" top="326" width="49" height="20" compilerOrder="461">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_57" compilerOrder="462"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_57" compilerOrder="462"/>
             </layout>&#xD;
             <layout left="32" top="329" width="328" height="27" compilerOrder="3">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="328" height="28" field="PAPEL" compilerOrder="4"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="328" height="28" field="PAPEL" compilerOrder="4"/>
             </layout>&#xD;
             <layout left="378" top="338" width="90" height="50" compilerOrder="35">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="COOL__8" compilerOrder="36"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="COOL__8" compilerOrder="36"/>
             </layout>&#xD;
             <layout left="1130" top="350" width="49" height="20" compilerOrder="325">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_35" compilerOrder="326"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_35" compilerOrder="326"/>
             </layout>&#xD;
             <layout left="1184" top="350" width="49" height="20" compilerOrder="327">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__9" compilerOrder="328"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__9" compilerOrder="328"/>
             </layout>&#xD;
             <layout left="1238" top="350" width="49" height="20" compilerOrder="329">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_35" compilerOrder="330"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_35" compilerOrder="330"/>
             </layout>&#xD;
             <layout left="32" top="374" width="252" height="27" compilerOrder="5">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="252" height="28" field="HABILIDADE_DO_PAPEL" compilerOrder="6"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="252" height="28" field="HABILIDADE_DO_PAPEL" compilerOrder="6"/>
             </layout>&#xD;
             <layout left="288" top="374" width="72" height="27" compilerOrder="7">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="28" field="NIVEL" compilerOrder="8"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="28" field="NIVEL" compilerOrder="8"/>
             </layout>&#xD;
             <layout left="721" top="375" width="49" height="20" compilerOrder="185">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_12" compilerOrder="186"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_12" compilerOrder="186"/>
             </layout>&#xD;
             <layout left="775" top="375" width="49" height="20" compilerOrder="187">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__5" compilerOrder="188"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__5" compilerOrder="188"/>
             </layout>&#xD;
             <layout left="829" top="375" width="49" height="20" compilerOrder="189">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_12" compilerOrder="190"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_12" compilerOrder="190"/>
             </layout>&#xD;
             <layout left="1130" top="375" width="49" height="20" compilerOrder="331">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_36" compilerOrder="332"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_36" compilerOrder="332"/>
             </layout>&#xD;
             <layout left="1184" top="375" width="49" height="20" compilerOrder="333">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__10" compilerOrder="334"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__10" compilerOrder="334"/>
             </layout>&#xD;
             <layout left="1238" top="375" width="49" height="20" compilerOrder="335">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_36" compilerOrder="336"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_36" compilerOrder="336"/>
             </layout>&#xD;
             <layout left="1540" top="375" width="49" height="20" compilerOrder="463">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_58" compilerOrder="464"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_58" compilerOrder="464"/>
             </layout>&#xD;
             <layout left="1594" top="375" width="49" height="20" compilerOrder="465">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__0" compilerOrder="466"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__0" compilerOrder="466"/>
             </layout>&#xD;
             <layout left="1648" top="375" width="49" height="20" compilerOrder="467">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_58" compilerOrder="468"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_58" compilerOrder="468"/>
             </layout>&#xD;
             <layout left="721" top="399" width="49" height="20" compilerOrder="191">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_13" compilerOrder="192"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_13" compilerOrder="192"/>
             </layout>&#xD;
             <layout left="775" top="399" width="49" height="20" compilerOrder="193">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__6" compilerOrder="194"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__6" compilerOrder="194"/>
             </layout>&#xD;
             <layout left="829" top="399" width="49" height="20" compilerOrder="195">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_13" compilerOrder="196"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_13" compilerOrder="196"/>
             </layout>&#xD;
             <layout left="1540" top="399" width="49" height="20" compilerOrder="469">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_59" compilerOrder="470"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_59" compilerOrder="470"/>
             </layout>&#xD;
             <layout left="1594" top="399" width="49" height="20" compilerOrder="471">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__1" compilerOrder="472"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__1" compilerOrder="472"/>
             </layout>&#xD;
             <layout left="1648" top="399" width="49" height="20" compilerOrder="473">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_59" compilerOrder="474"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_59" compilerOrder="474"/>
             </layout>&#xD;
             <layout left="378" top="410" width="90" height="50" compilerOrder="37">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="FVO__3" compilerOrder="38"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="FVO__3" compilerOrder="38"/>
             </layout>&#xD;
             <layout left="721" top="424" width="49" height="20" compilerOrder="197">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_14" compilerOrder="198"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_14" compilerOrder="198"/>
             </layout>&#xD;
             <layout left="775" top="424" width="49" height="20" compilerOrder="199">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__7" compilerOrder="200"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__7" compilerOrder="200"/>
             </layout>&#xD;
             <layout left="829" top="424" width="49" height="20" compilerOrder="201">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_14" compilerOrder="202"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_14" compilerOrder="202"/>
             </layout>&#xD;
             <layout left="1130" top="424" width="49" height="20" compilerOrder="337">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_37" compilerOrder="338"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_37" compilerOrder="338"/>
             </layout>&#xD;
             <layout left="1184" top="424" width="49" height="20" compilerOrder="339">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__0" compilerOrder="340"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__0" compilerOrder="340"/>
             </layout>&#xD;
             <layout left="1238" top="424" width="49" height="20" compilerOrder="341">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_37" compilerOrder="342"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_37" compilerOrder="342"/>
             </layout>&#xD;
             <layout left="1540" top="424" width="49" height="20" compilerOrder="475">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_60" compilerOrder="476"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_60" compilerOrder="476"/>
             </layout>&#xD;
             <layout left="1594" top="424" width="49" height="20" compilerOrder="477">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__2" compilerOrder="478"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__2" compilerOrder="478"/>
             </layout>&#xD;
             <layout left="1648" top="424" width="49" height="20" compilerOrder="479">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_60" compilerOrder="480"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_60" compilerOrder="480"/>
             </layout>&#xD;
             <layout left="32" top="426.2" width="328" height="226.8" compilerOrder="9">
-                <textEditor left="0" top="0" width="328" height="226.8" fontSize="8.6" fontColor="#000000" field="NOTAS" transparent="true" compilerOrder="10"/>
+                <textEditor left="0" top="0" width="328" height="226.8" fontSize="20" fontColor="#000000" field="NOTAS" transparent="true" compilerOrder="10"/>
             </layout>&#xD;
             <layout left="721" top="448" width="49" height="20" compilerOrder="203">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_15" compilerOrder="204"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_15" compilerOrder="204"/>
             </layout>&#xD;
             <layout left="775" top="448" width="49" height="20" compilerOrder="205">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__8" compilerOrder="206"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__8" compilerOrder="206"/>
             </layout>&#xD;
             <layout left="829" top="448" width="49" height="20" compilerOrder="207">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_15" compilerOrder="208"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_15" compilerOrder="208"/>
             </layout>&#xD;
             <layout left="1130" top="448" width="49" height="20" compilerOrder="343">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_38" compilerOrder="344"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_38" compilerOrder="344"/>
             </layout>&#xD;
             <layout left="1184" top="448" width="49" height="20" compilerOrder="345">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__1" compilerOrder="346"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__1" compilerOrder="346"/>
             </layout>&#xD;
             <layout left="1238" top="448" width="49" height="20" compilerOrder="347">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_38" compilerOrder="348"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_38" compilerOrder="348"/>
             </layout>&#xD;
             <layout left="1540" top="448" width="49" height="20" compilerOrder="481">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_61" compilerOrder="482"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_61" compilerOrder="482"/>
             </layout>&#xD;
             <layout left="1594" top="448" width="49" height="20" compilerOrder="483">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__3" compilerOrder="484"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__3" compilerOrder="484"/>
             </layout>&#xD;
             <layout left="1648" top="448" width="49" height="20" compilerOrder="485">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_61" compilerOrder="486"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_61" compilerOrder="486"/>
             </layout>&#xD;
             <layout left="1130" top="473" width="49" height="20" compilerOrder="349">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_39" compilerOrder="350"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_39" compilerOrder="350"/>
             </layout>&#xD;
             <layout left="1184" top="473" width="49" height="20" compilerOrder="351">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__2" compilerOrder="352"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__2" compilerOrder="352"/>
             </layout>&#xD;
             <layout left="1238" top="473" width="49" height="20" compilerOrder="353">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_39" compilerOrder="354"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_39" compilerOrder="354"/>
             </layout>&#xD;
             <layout left="1540" top="473" width="49" height="20" compilerOrder="487">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_62" compilerOrder="488"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_62" compilerOrder="488"/>
             </layout>&#xD;
             <layout left="1594" top="473" width="49" height="20" compilerOrder="489">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__4" compilerOrder="490"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__4" compilerOrder="490"/>
             </layout>&#xD;
             <layout left="1648" top="473" width="49" height="20" compilerOrder="491">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_62" compilerOrder="492"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_62" compilerOrder="492"/>
             </layout>&#xD;
             <layout left="378" top="482" width="49" height="50" compilerOrder="39">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="51" field="SOR" compilerOrder="40"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="51" field="SOR" compilerOrder="40"/>
             </layout>&#xD;
             <layout left="432" top="495" width="36" height="36" compilerOrder="41">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="37" field="SOR_TOTAL" compilerOrder="42"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="37" field="SOR_TOTAL" compilerOrder="42"/>
             </layout>&#xD;
             <layout left="721" top="497" width="49" height="20" compilerOrder="209">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_16" compilerOrder="210"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_16" compilerOrder="210"/>
             </layout>&#xD;
             <layout left="775" top="497" width="49" height="20" compilerOrder="211">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__15" compilerOrder="212"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__15" compilerOrder="212"/>
             </layout>&#xD;
             <layout left="829" top="497" width="49" height="20" compilerOrder="213">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_16" compilerOrder="214"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_16" compilerOrder="214"/>
             </layout>&#xD;
             <layout left="1130" top="497" width="49" height="20" compilerOrder="355">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_40" compilerOrder="356"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_40" compilerOrder="356"/>
             </layout>&#xD;
             <layout left="1184" top="497" width="49" height="20" compilerOrder="357">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__3" compilerOrder="358"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="DES__3" compilerOrder="358"/>
             </layout>&#xD;
             <layout left="1238" top="497" width="49" height="20" compilerOrder="359">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_40" compilerOrder="360"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_40" compilerOrder="360"/>
             </layout>&#xD;
             <layout left="1540" top="497" width="49" height="20" compilerOrder="493">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_63" compilerOrder="494"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_63" compilerOrder="494"/>
             </layout>&#xD;
             <layout left="1594" top="497" width="49" height="20" compilerOrder="495">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__5" compilerOrder="496"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__5" compilerOrder="496"/>
             </layout>&#xD;
             <layout left="1648" top="497" width="49" height="20" compilerOrder="497">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_63" compilerOrder="498"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_63" compilerOrder="498"/>
             </layout>&#xD;
             <layout left="721" top="522" width="49" height="20" compilerOrder="215">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_17" compilerOrder="216"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_17" compilerOrder="216"/>
             </layout>&#xD;
             <layout left="775" top="522" width="49" height="20" compilerOrder="217">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__16" compilerOrder="218"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__16" compilerOrder="218"/>
             </layout>&#xD;
             <layout left="829" top="522" width="49" height="20" compilerOrder="219">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_17" compilerOrder="220"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_17" compilerOrder="220"/>
             </layout>&#xD;
             <layout left="1540" top="522" width="49" height="20" compilerOrder="499">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_64" compilerOrder="500"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_64" compilerOrder="500"/>
             </layout>&#xD;
             <layout left="1594" top="522" width="49" height="20" compilerOrder="501">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__6" compilerOrder="502"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__6" compilerOrder="502"/>
             </layout>&#xD;
             <layout left="1648" top="522" width="49" height="20" compilerOrder="503">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_64" compilerOrder="504"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_64" compilerOrder="504"/>
             </layout>&#xD;
             <layout left="721" top="546" width="49" height="20" compilerOrder="221">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_18" compilerOrder="222"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_18" compilerOrder="222"/>
             </layout>&#xD;
             <layout left="775" top="546" width="49" height="20" compilerOrder="223">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__17" compilerOrder="224"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__17" compilerOrder="224"/>
             </layout>&#xD;
             <layout left="829" top="546" width="49" height="20" compilerOrder="225">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_18" compilerOrder="226"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_18" compilerOrder="226"/>
             </layout>&#xD;
             <layout left="1130" top="546" width="49" height="20" compilerOrder="361">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_41" compilerOrder="362"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_41" compilerOrder="362"/>
             </layout>&#xD;
             <layout left="1184" top="546" width="49" height="20" compilerOrder="363">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__7" compilerOrder="364"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="COOL__7" compilerOrder="364"/>
             </layout>&#xD;
             <layout left="1238" top="546" width="49" height="20" compilerOrder="365">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_41" compilerOrder="366"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_41" compilerOrder="366"/>
             </layout>&#xD;
             <layout left="1540" top="546" width="49" height="20" compilerOrder="505">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_65" compilerOrder="506"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_65" compilerOrder="506"/>
             </layout>&#xD;
             <layout left="1594" top="546" width="49" height="20" compilerOrder="507">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__7" compilerOrder="508"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__7" compilerOrder="508"/>
             </layout>&#xD;
             <layout left="1648" top="546" width="49" height="20" compilerOrder="509">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_65" compilerOrder="510"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_65" compilerOrder="510"/>
             </layout>&#xD;
             <layout left="378" top="554" width="90" height="50" compilerOrder="43">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="MOV" compilerOrder="44"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="MOV" compilerOrder="44"/>
             </layout>&#xD;
             <layout left="721" top="571" width="49" height="20" compilerOrder="227">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_19" compilerOrder="228"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_19" compilerOrder="228"/>
             </layout>&#xD;
             <layout left="775" top="571" width="49" height="20" compilerOrder="229">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__18" compilerOrder="230"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__18" compilerOrder="230"/>
             </layout>&#xD;
             <layout left="829" top="571" width="49" height="20" compilerOrder="231">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_19" compilerOrder="232"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_19" compilerOrder="232"/>
             </layout>&#xD;
             <layout left="1540" top="571" width="49" height="20" compilerOrder="511">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_66" compilerOrder="512"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_66" compilerOrder="512"/>
             </layout>&#xD;
             <layout left="1594" top="571" width="49" height="20" compilerOrder="513">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__8" compilerOrder="514"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__8" compilerOrder="514"/>
             </layout>&#xD;
             <layout left="1648" top="571" width="49" height="20" compilerOrder="515">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_66" compilerOrder="516"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_66" compilerOrder="516"/>
             </layout>&#xD;
             <layout left="721" top="595" width="49" height="20" compilerOrder="233">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_20" compilerOrder="234"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_20" compilerOrder="234"/>
             </layout>&#xD;
             <layout left="775" top="595" width="49" height="20" compilerOrder="235">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__19" compilerOrder="236"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__19" compilerOrder="236"/>
             </layout>&#xD;
             <layout left="829" top="595" width="49" height="20" compilerOrder="237">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_20" compilerOrder="238"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_20" compilerOrder="238"/>
             </layout>&#xD;
             <layout left="927" top="595" width="198" height="20" compilerOrder="565">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="INSTRUMENTO_1" compilerOrder="566"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="INSTRUMENTO_1" compilerOrder="566"/>
             </layout>&#xD;
             <layout left="1130" top="595" width="49" height="20" compilerOrder="367">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_42" compilerOrder="368"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_42" compilerOrder="368"/>
             </layout>&#xD;
             <layout left="1184" top="595" width="49" height="20" compilerOrder="369">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__15" compilerOrder="370"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__15" compilerOrder="370"/>
             </layout>&#xD;
             <layout left="1238" top="595" width="49" height="20" compilerOrder="371">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_42" compilerOrder="372"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_42" compilerOrder="372"/>
             </layout>&#xD;
             <layout left="1540" top="595" width="49" height="20" compilerOrder="517">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_67" compilerOrder="518"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_67" compilerOrder="518"/>
             </layout>&#xD;
             <layout left="1594" top="595" width="49" height="20" compilerOrder="519">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__9" compilerOrder="520"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__9" compilerOrder="520"/>
             </layout>&#xD;
             <layout left="1648" top="595" width="49" height="20" compilerOrder="521">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_67" compilerOrder="522"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_67" compilerOrder="522"/>
             </layout>&#xD;
             <layout left="721" top="620" width="49" height="20" compilerOrder="239">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_21" compilerOrder="240"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_21" compilerOrder="240"/>
             </layout>&#xD;
             <layout left="775" top="620" width="49" height="20" compilerOrder="241">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__20" compilerOrder="242"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__20" compilerOrder="242"/>
             </layout>&#xD;
             <layout left="829" top="620" width="49" height="20" compilerOrder="243">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_21" compilerOrder="244"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_21" compilerOrder="244"/>
             </layout>&#xD;
             <layout left="927" top="620" width="198" height="20" compilerOrder="567">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="INSTRUMENTO_2" compilerOrder="568"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="198" height="21" field="INSTRUMENTO_2" compilerOrder="568"/>
             </layout>&#xD;
             <layout left="1130" top="620" width="49" height="20" compilerOrder="373">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_43" compilerOrder="374"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_43" compilerOrder="374"/>
             </layout>&#xD;
             <layout left="1184" top="620" width="49" height="20" compilerOrder="375">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__16" compilerOrder="376"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__16" compilerOrder="376"/>
             </layout>&#xD;
             <layout left="1238" top="620" width="49" height="20" compilerOrder="377">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_43" compilerOrder="378"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_43" compilerOrder="378"/>
             </layout>&#xD;
             <layout left="1540" top="620" width="49" height="20" compilerOrder="523">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_68" compilerOrder="524"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_68" compilerOrder="524"/>
             </layout>&#xD;
             <layout left="1594" top="620" width="49" height="20" compilerOrder="525">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__10" compilerOrder="526"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__10" compilerOrder="526"/>
             </layout>&#xD;
             <layout left="1648" top="620" width="49" height="20" compilerOrder="527">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_68" compilerOrder="528"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_68" compilerOrder="528"/>
             </layout>&#xD;
             <layout left="378" top="626" width="90" height="50" compilerOrder="45">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="TCO" compilerOrder="46"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="51" field="TCO" compilerOrder="46"/>
             </layout>&#xD;
             <layout left="721" top="644" width="49" height="20" compilerOrder="245">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_22" compilerOrder="246"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_22" compilerOrder="246"/>
             </layout>&#xD;
             <layout left="775" top="644" width="49" height="20" compilerOrder="247">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__21" compilerOrder="248"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__21" compilerOrder="248"/>
             </layout>&#xD;
             <layout left="829" top="644" width="49" height="20" compilerOrder="249">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_22" compilerOrder="250"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_22" compilerOrder="250"/>
             </layout>&#xD;
             <layout left="1540" top="644" width="49" height="20" compilerOrder="529">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_69" compilerOrder="530"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_69" compilerOrder="530"/>
             </layout>&#xD;
             <layout left="1594" top="644" width="49" height="20" compilerOrder="531">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__11" compilerOrder="532"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__11" compilerOrder="532"/>
             </layout>&#xD;
             <layout left="1648" top="644" width="49" height="20" compilerOrder="533">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_69" compilerOrder="534"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_69" compilerOrder="534"/>
             </layout>&#xD;
             <layout left="721" top="669" width="49" height="20" compilerOrder="251">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_23" compilerOrder="252"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_23" compilerOrder="252"/>
             </layout>&#xD;
             <layout left="775" top="669" width="49" height="20" compilerOrder="253">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__22" compilerOrder="254"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__22" compilerOrder="254"/>
             </layout>&#xD;
             <layout left="829" top="669" width="49" height="20" compilerOrder="255">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_23" compilerOrder="256"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_23" compilerOrder="256"/>
             </layout>&#xD;
             <layout left="1130" top="669" width="49" height="20" compilerOrder="379">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_44" compilerOrder="380"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_44" compilerOrder="380"/>
             </layout>&#xD;
             <layout left="1184" top="669" width="49" height="20" compilerOrder="381">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__2" compilerOrder="382"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__2" compilerOrder="382"/>
             </layout>&#xD;
             <layout left="1238" top="669" width="49" height="20" compilerOrder="383">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_44" compilerOrder="384"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_44" compilerOrder="384"/>
             </layout>&#xD;
             <layout left="1540" top="669" width="49" height="20" compilerOrder="535">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_70" compilerOrder="536"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_70" compilerOrder="536"/>
             </layout>&#xD;
             <layout left="1594" top="669" width="49" height="20" compilerOrder="537">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__12" compilerOrder="538"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__12" compilerOrder="538"/>
             </layout>&#xD;
             <layout left="1648" top="669" width="49" height="20" compilerOrder="539">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_70" compilerOrder="540"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_70" compilerOrder="540"/>
             </layout>&#xD;
             <layout left="32" top="684" width="162" height="63" compilerOrder="11">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="162" height="64" field="HUMANIDADE" compilerOrder="12"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="162" height="64" field="HUMANIDADE" compilerOrder="12"/>
             </layout>&#xD;
             <layout left="198" top="684" width="162" height="63" compilerOrder="13">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="162" height="64" field="HUMANIDADE_TOTAL" compilerOrder="14"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="162" height="64" field="HUMANIDADE_TOTAL" compilerOrder="14"/>
             </layout>&#xD;
             <layout left="721" top="694" width="49" height="20" compilerOrder="257">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_24" compilerOrder="258"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_24" compilerOrder="258"/>
             </layout>&#xD;
             <layout left="775" top="694" width="49" height="20" compilerOrder="259">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__23" compilerOrder="260"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__23" compilerOrder="260"/>
             </layout>&#xD;
             <layout left="829" top="694" width="49" height="20" compilerOrder="261">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_24" compilerOrder="262"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_24" compilerOrder="262"/>
             </layout>&#xD;
             <layout left="1130" top="694" width="49" height="20" compilerOrder="385">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_45" compilerOrder="386"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_45" compilerOrder="386"/>
             </layout>&#xD;
             <layout left="1184" top="694" width="49" height="20" compilerOrder="387">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__3" compilerOrder="388"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__3" compilerOrder="388"/>
             </layout>&#xD;
             <layout left="1238" top="694" width="49" height="20" compilerOrder="389">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_45" compilerOrder="390"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_45" compilerOrder="390"/>
             </layout>&#xD;
             <layout left="1540" top="694" width="49" height="20" compilerOrder="541">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_71" compilerOrder="542"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_71" compilerOrder="542"/>
             </layout>&#xD;
             <layout left="1594" top="694" width="49" height="20" compilerOrder="543">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__13" compilerOrder="544"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__13" compilerOrder="544"/>
             </layout>&#xD;
             <layout left="1648" top="694" width="49" height="20" compilerOrder="545">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_71" compilerOrder="546"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_71" compilerOrder="546"/>
             </layout>&#xD;
             <layout left="378" top="698" width="49" height="50" compilerOrder="47">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="51" field="EMP__2" compilerOrder="48"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="51" field="EMP__2" compilerOrder="48"/>
             </layout>&#xD;
             <layout left="432" top="711" width="36" height="36" compilerOrder="49">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="37" field="EMP_TOTAL" compilerOrder="50"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="36" height="37" field="EMP_TOTAL" compilerOrder="50"/>
             </layout>&#xD;
             <layout left="721" top="718" width="49" height="20" compilerOrder="263">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_25" compilerOrder="264"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_25" compilerOrder="264"/>
             </layout>&#xD;
             <layout left="775" top="718" width="49" height="20" compilerOrder="265">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__24" compilerOrder="266"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="INT__24" compilerOrder="266"/>
             </layout>&#xD;
             <layout left="829" top="718" width="49" height="20" compilerOrder="267">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_25" compilerOrder="268"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_25" compilerOrder="268"/>
             </layout>&#xD;
             <layout left="1130" top="718" width="49" height="20" compilerOrder="391">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_46" compilerOrder="392"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_46" compilerOrder="392"/>
             </layout>&#xD;
             <layout left="1184" top="718" width="49" height="20" compilerOrder="393">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__4" compilerOrder="394"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="REF__4" compilerOrder="394"/>
             </layout>&#xD;
             <layout left="1238" top="718" width="49" height="20" compilerOrder="395">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_46" compilerOrder="396"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_46" compilerOrder="396"/>
             </layout>&#xD;
             <layout left="1540" top="718" width="49" height="20" compilerOrder="547">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_72" compilerOrder="548"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="NVL_72" compilerOrder="548"/>
             </layout>&#xD;
             <layout left="1594" top="718" width="49" height="20" compilerOrder="549">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__14" compilerOrder="550"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="TEC__14" compilerOrder="550"/>
             </layout>&#xD;
             <layout left="1648" top="718" width="49" height="20" compilerOrder="551">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_72" compilerOrder="552"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="49" height="21" field="BASE_72" compilerOrder="552"/>
             </layout>&#xD;
             <layout left="32" top="779" width="108" height="32" compilerOrder="15">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="108" height="33" field="PONTOS_DE_VIDA" compilerOrder="16"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="108" height="33" field="PONTOS_DE_VIDA" compilerOrder="16"/>
             </layout>&#xD;
             <layout left="144" top="779" width="103" height="32" compilerOrder="17">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="103" height="33" field="PONTOS_DE_VIDA_1" compilerOrder="18"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="103" height="33" field="PONTOS_DE_VIDA_1" compilerOrder="18"/>
             </layout>&#xD;
             <layout left="252" top="779" width="216" height="77" compilerOrder="23">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="78" field="LESÕES_CRÍTICAS" compilerOrder="24"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="78" field="LESÕES_CRÍTICAS" compilerOrder="24"/>
             </layout>&#xD;
             <layout left="900" top="783" width="229" height="23" compilerOrder="69">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_1" compilerOrder="70"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_1" compilerOrder="70"/>
             </layout>&#xD;
             <layout left="1134" top="783" width="76" height="23" compilerOrder="79">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_1" compilerOrder="80"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_1" compilerOrder="80"/>
             </layout>&#xD;
             <layout left="1215" top="783" width="90" height="23" compilerOrder="89">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_1" compilerOrder="90"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_1" compilerOrder="90"/>
             </layout>&#xD;
             <layout left="1310" top="783" width="67" height="23" compilerOrder="99">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_1" compilerOrder="100"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_1" compilerOrder="100"/>
             </layout>&#xD;
             <layout left="1382" top="783" width="315" height="23" compilerOrder="109">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_1" compilerOrder="110"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_1" compilerOrder="110"/>
             </layout>&#xD;
             <layout left="486" top="810" width="243" height="23" compilerOrder="51">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_1" compilerOrder="52"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_1" compilerOrder="52"/>
             </layout>&#xD;
             <layout left="734" top="810" width="72" height="23" compilerOrder="57">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_1" compilerOrder="58"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_1" compilerOrder="58"/>
             </layout>&#xD;
             <layout left="810" top="810" width="85" height="23" compilerOrder="63">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_1" compilerOrder="64"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_1" compilerOrder="64"/>
             </layout>&#xD;
             <layout left="900" top="810" width="229" height="23" compilerOrder="71">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_2" compilerOrder="72"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_2" compilerOrder="72"/>
             </layout>&#xD;
             <layout left="1134" top="810" width="76" height="23" compilerOrder="81">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_2" compilerOrder="82"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_2" compilerOrder="82"/>
             </layout>&#xD;
             <layout left="1215" top="810" width="90" height="23" compilerOrder="91">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_2" compilerOrder="92"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_2" compilerOrder="92"/>
             </layout>&#xD;
             <layout left="1310" top="810" width="67" height="23" compilerOrder="101">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_2" compilerOrder="102"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_2" compilerOrder="102"/>
             </layout>&#xD;
             <layout left="1382" top="810" width="315" height="23" compilerOrder="111">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_2" compilerOrder="112"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_2" compilerOrder="112"/>
             </layout>&#xD;
             <layout left="32" top="828" width="216" height="32" compilerOrder="19">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="33" field="GRAVEMENTE_FERIDO" compilerOrder="20"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="33" field="GRAVEMENTE_FERIDO" compilerOrder="20"/>
             </layout>&#xD;
             <layout left="486" top="837" width="243" height="23" compilerOrder="53">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_2" compilerOrder="54"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_2" compilerOrder="54"/>
             </layout>&#xD;
             <layout left="734" top="837" width="72" height="23" compilerOrder="59">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_2" compilerOrder="60"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_2" compilerOrder="60"/>
             </layout>&#xD;
             <layout left="810" top="837" width="85" height="23" compilerOrder="65">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_2" compilerOrder="66"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_2" compilerOrder="66"/>
             </layout>&#xD;
             <layout left="900" top="837" width="229" height="23" compilerOrder="73">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_3" compilerOrder="74"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_3" compilerOrder="74"/>
             </layout>&#xD;
             <layout left="1134" top="837" width="76" height="23" compilerOrder="83">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_3" compilerOrder="84"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_3" compilerOrder="84"/>
             </layout>&#xD;
             <layout left="1215" top="837" width="90" height="23" compilerOrder="93">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_3" compilerOrder="94"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_3" compilerOrder="94"/>
             </layout>&#xD;
             <layout left="1310" top="837" width="67" height="23" compilerOrder="103">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_3" compilerOrder="104"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_3" compilerOrder="104"/>
             </layout>&#xD;
             <layout left="1382" top="837" width="315" height="23" compilerOrder="113">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_3" compilerOrder="114"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_3" compilerOrder="114"/>
             </layout>&#xD;
             <layout left="486" top="864" width="243" height="23" compilerOrder="55">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_3" compilerOrder="56"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_3" compilerOrder="56"/>
             </layout>&#xD;
             <layout left="734" top="864" width="72" height="23" compilerOrder="61">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_3" compilerOrder="62"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_3" compilerOrder="62"/>
             </layout>&#xD;
             <layout left="810" top="864" width="85" height="23" compilerOrder="67">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_3" compilerOrder="68"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_3" compilerOrder="68"/>
             </layout>&#xD;
             <layout left="900" top="864" width="229" height="23" compilerOrder="75">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_4" compilerOrder="76"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_4" compilerOrder="76"/>
             </layout>&#xD;
             <layout left="1134" top="864" width="76" height="23" compilerOrder="85">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_4" compilerOrder="86"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_4" compilerOrder="86"/>
             </layout>&#xD;
             <layout left="1215" top="864" width="90" height="23" compilerOrder="95">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_4" compilerOrder="96"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_4" compilerOrder="96"/>
             </layout>&#xD;
             <layout left="1310" top="864" width="67" height="23" compilerOrder="105">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_4" compilerOrder="106"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_4" compilerOrder="106"/>
             </layout>&#xD;
             <layout left="1382" top="864" width="315" height="23" compilerOrder="115">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_4" compilerOrder="116"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_4" compilerOrder="116"/>
             </layout>&#xD;
             <layout left="252" top="873" width="216" height="68" compilerOrder="25">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="69" field="VÍCIOS" compilerOrder="26"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="69" field="VÍCIOS" compilerOrder="26"/>
             </layout>&#xD;
             <layout left="486" top="891" width="243" height="23" compilerOrder="579">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_4" compilerOrder="580"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="243" height="24" field="ARMADURA_4" compilerOrder="580"/>
             </layout>&#xD;
             <layout left="734" top="891" width="72" height="23" compilerOrder="581">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_4" compilerOrder="582"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="72" height="24" field="PB_4" compilerOrder="582"/>
             </layout>&#xD;
             <layout left="810" top="891" width="85" height="23" compilerOrder="583">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_4" compilerOrder="584"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="85" height="24" field="PENALIDADE_4" compilerOrder="584"/>
             </layout>&#xD;
             <layout left="900" top="891" width="229" height="23" compilerOrder="77">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_5" compilerOrder="78"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_5" compilerOrder="78"/>
             </layout>&#xD;
             <layout left="1134" top="891" width="76" height="23" compilerOrder="87">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_5" compilerOrder="88"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_5" compilerOrder="88"/>
             </layout>&#xD;
             <layout left="1215" top="891" width="90" height="23" compilerOrder="97">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_5" compilerOrder="98"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_5" compilerOrder="98"/>
             </layout>&#xD;
             <layout left="1310" top="891" width="67" height="23" compilerOrder="107">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_5" compilerOrder="108"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_5" compilerOrder="108"/>
             </layout>&#xD;
             <layout left="1382" top="891" width="315" height="23" compilerOrder="117">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_5" compilerOrder="118"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_5" compilerOrder="118"/>
             </layout>&#xD;
             <layout left="32" top="909" width="216" height="32" compilerOrder="21">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="33" field="RESISTÊNCIA_A_MORTE" compilerOrder="22"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="216" height="33" field="RESISTÊNCIA_A_MORTE" compilerOrder="22"/>
             </layout>&#xD;
             <layout left="900" top="918" width="229" height="23" compilerOrder="569">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_6" compilerOrder="570"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="229" height="24" field="ARMA_6" compilerOrder="570"/>
             </layout>&#xD;
             <layout left="1134" top="918" width="76" height="23" compilerOrder="571">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_6" compilerOrder="572"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="76" height="24" field="DANO_6" compilerOrder="572"/>
             </layout>&#xD;
             <layout left="1215" top="918" width="90" height="23" compilerOrder="573">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_6" compilerOrder="574"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="90" height="24" field="MUNIÇÃO_6" compilerOrder="574"/>
             </layout>&#xD;
             <layout left="1310" top="918" width="67" height="23" compilerOrder="575">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_6" compilerOrder="576"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" horzTextAlign="center" vertTextAlign="center" left="0" top="0" width="67" height="24" field="CDT_6" compilerOrder="576"/>
             </layout>&#xD;
             <layout left="1382" top="918" width="315" height="23" compilerOrder="577">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_6" compilerOrder="578"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="315" height="24" field="NOTAS_6" compilerOrder="578"/>
             </layout>&#xD;
         </rectangle>
     </scrollBox>
