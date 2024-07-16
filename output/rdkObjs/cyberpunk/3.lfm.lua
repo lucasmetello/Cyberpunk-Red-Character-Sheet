@@ -474,7 +474,7 @@ local function constructNew_frmcyberpunk3_svg()
     obj.edit14 = GUI.fromHandle(_obj_newObject("edit"));
     obj.edit14:setParent(obj.layout22);
     obj.edit14:setTransparent(true);
-    obj.edit14:setFontSize(8.6);
+    obj.edit14:setFontSize(20);
     obj.edit14:setFontColor("#000000");
     obj.edit14:setVertTextAlign("center");
     obj.edit14:setLeft(0);
@@ -1649,15 +1649,15 @@ local function constructNew_frmcyberpunk3_svg()
 
     obj.edit70 = GUI.fromHandle(_obj_newObject("edit"));
     obj.edit70:setParent(obj.layout78);
-    obj.edit70:setTransparent(true);
-    obj.edit70:setFontSize(8.6);
+    obj.edit70:setTransparent(false);
+    obj.edit70:setFontSize(20);
     obj.edit70:setFontColor("#000000");
     obj.edit70:setVertTextAlign("center");
     obj.edit70:setLeft(0);
     obj.edit70:setTop(0);
     obj.edit70:setWidth(265);
     obj.edit70:setHeight(28);
-    obj.edit70:setField("DADOS_14");
+    obj.edit70:setField("Neural1StatusValor");
     obj.edit70:setName("edit70");
 
     obj.layout79 = GUI.fromHandle(_obj_newObject("layout"));

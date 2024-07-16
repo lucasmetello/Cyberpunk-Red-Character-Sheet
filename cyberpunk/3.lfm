@@ -44,12 +44,16 @@
             <layout left="1431" top="198" width="265" height="23" compilerOrder="195">
                 <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="265" height="24" field="DADOS_34" compilerOrder="196"/>
             </layout>&#xD;
+            <!---->
             <layout left="770" top="212" width="184" height="27" compilerOrder="43">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="184" height="28" field="EQUIPAMENTO_NEURAL_1" compilerOrder="44"/>
+                <edit transparent="true" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="184" height="28" field="EQUIPAMENTO_NEURAL_1" compilerOrder="44"/>
             </layout>&#xD;
+
             <layout left="959" top="212" width="265" height="27" compilerOrder="155">
-                <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="265" height="28" field="DADOS_14" compilerOrder="156"/>
+                <edit transparent="false" fontSize="20" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="265" height="28" field="Neural1StatusValor" compilerOrder="156"/>
             </layout>&#xD;
+
+            <!---->
             <layout left="1242" top="225" width="184" height="23" compilerOrder="85">
                 <edit transparent="true" fontSize="8.6" fontColor="#000000" vertTextAlign="center" left="0" top="0" width="184" height="24" field="CYBERWARE_INTERNO_7" compilerOrder="86"/>
             </layout>&#xD;
